@@ -13,6 +13,7 @@ export default {
         frank: ["Frank Ruhl Libre", "serif"],
         quicksand: ["Quicksand", "sans-serif"],
       },
+      screens: { xs: "425px" },
     },
   },
   plugins: [],
